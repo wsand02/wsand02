@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello, there! 👋
 
+Don't know what to put here at the moment, so this will do.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsand02&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **wsand02/wsand02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
