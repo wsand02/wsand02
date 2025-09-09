@@ -2,7 +2,7 @@
 
 I'm William Sandbrink.
 
-Been writing spaghetti since 2015.
+Programming since 2015.
 Fueled by ☕️ → 💻, chasing that dopamine hit of finally fixing a bug ⚡️.
 
 ### Ramblings
