@@ -2,6 +2,9 @@
 
 I'm William Sandbrink.
 
+[![Website](https://img.shields.io/badge/Website-wilsandbrink.com-2ea44f?style=for-the-badge)](https://wilsandbrink.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wsand02/)
+
 ## About me
 
 I've been writing spaghetti since 2015 when my mother bought me the third edition of Programming in Lua.
