@@ -17,6 +17,6 @@ While writing my thesis most of my time was spent sloppily modding games with dn
 
 Been stuck washing dishes since getting my CS degree to pay off my student loans and AI subscriptions, yay I love recruiters. But I don't need some corporation's permissions to write spaghetti :D.
 
-## Github Stats
+## Public Github Stats
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=wsand02&theme=catppuccin_mocha&hide_border=true&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=wsand02&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
